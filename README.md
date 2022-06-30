@@ -1,10 +1,13 @@
 # PB-NOR-nodejs-Desafio-01
 
-1. Para que serve o método Scrum?
-R: Serve para ajudar os times de um projeto a executarem as tarefas
+1. Para que serve o método Scrum?  
+R: Serve para ajudar os times de um projeto a executarem as tarefas 
 de forma mais efetiva.
 
-2. Como funciona o método Scrum?
+2. Como funciona o método Scrum?  
+R: O método Scrum funciona com diversos ciclos chamados 'sprints' nessas sprints 
+tem 4 cerimônias, o product owner e scrum master funções essenciais para executar 
+o scrum.
 
 3. O que é Git? 
 
