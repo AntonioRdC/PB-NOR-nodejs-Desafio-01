@@ -31,7 +31,8 @@ R:  git add <arquivo>
 R: A branch master é a branch padrão de um projeto git. As branches servem para separar funcionalidades,
 onde cada uma estará em branches diferentes portanto podem ser desenvolvidas separadamente.
 
-10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
+10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?  
+R: git pull, git merge <branch>
 
 11. Qual a diferença entre git e github? 
 
