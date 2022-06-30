@@ -28,7 +28,8 @@ R: git init
 R:  git add <arquivo>
 
 9. O que é a Branch master e para que serve?  
-R: 
+R: A branch master é a branch padrão de um projeto git. As branches servem para separar funcionalidades,
+onde cada uma estará em branches diferentes portanto podem ser desenvolvidas separadamente.
 
 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
 
