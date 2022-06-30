@@ -10,14 +10,15 @@ tem 4 cerimônias, o product owner e scrum master funções essenciais para exec
 o scrum.
 
 3. O que é Git?  
-R: O git é um controlador de versões para projetos.
+R: O git é um controlador de versões.
 
 4. O que é um Scrum Product Owner?  
 R: O Product Owner é o "cliente" dentro do time no scrum, seu papel é manter o
 product backlog atualizado e refinar ele o máximo possível para poder passar para
 a equipe de desenvolvimento o sprint backlog durante a sprint planning.
 
-5. Qual o comando para criação de um novo repositório no Git? 
+5. Qual o comando para criação de um novo repositório no Git?  
+R: git init.
 
 6. O que é o HTTP? 
 
