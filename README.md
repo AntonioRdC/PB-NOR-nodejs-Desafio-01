@@ -18,15 +18,17 @@ product backlog atualizado e refinar ele o máximo possível para poder passar p
 a equipe de desenvolvimento o sprint backlog durante a sprint planning.
 
 5. Qual o comando para criação de um novo repositório no Git?  
-R: git init.
+R: git init
 
 6. O que é o HTTP? 
 
 7. Como funciona o HTTP? 
 
-8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
+8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?  
+R:  git add <arquivo>
 
-9. O que é a Branch master e para que serve? 
+9. O que é a Branch master e para que serve?  
+R: 
 
 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
 
