@@ -10,7 +10,7 @@ tem 4 cerimônias, o product owner e scrum master funções essenciais para exec
 o scrum.
 
 3. O que é Git?  
-R: 
+R: O git é um controlador de versões para projetos.
 
 4. O que é um Scrum Product Owner?  
 R: O Product Owner é o "cliente" dentro do time no scrum, seu papel é manter o
