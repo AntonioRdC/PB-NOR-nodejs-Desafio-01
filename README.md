@@ -9,9 +9,13 @@ R: O método Scrum funciona com diversos ciclos chamados 'sprints' nessas sprint
 tem 4 cerimônias, o product owner e scrum master funções essenciais para executar 
 o scrum.
 
-3. O que é Git? 
+3. O que é Git?  
+R: 
 
-4. O que é um Scrum Product Owner? 
+4. O que é um Scrum Product Owner?  
+R: O Product Owner é o "cliente" dentro do time no scrum, seu papel é manter o
+product backlog atualizado e refinar ele o máximo possível para poder passar para
+a equipe de desenvolvimento o sprint backlog durante a sprint planning.
 
 5. Qual o comando para criação de um novo repositório no Git? 
 
