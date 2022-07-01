@@ -48,7 +48,8 @@ R: O verbo **PUT** usado para atualizar uma entidade completa ou O verbo **PATCH
 13. Qual o status code que pode ser usado na criação de um novo usuário?  
 R: 201
 
-14. Quais são os três status code que podem ser utilizados para realizar o delete? 
+14. Quais são os três status code que podem ser utilizados para realizar o delete?  
+R: 200, 202, 204
 
 15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
 
