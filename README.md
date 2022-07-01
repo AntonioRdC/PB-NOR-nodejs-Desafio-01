@@ -45,7 +45,8 @@ os projetos versionados do git para a internet.
 12. Quais os dois verbos http que podemos utilizar para realizar um update? Explique a diferença entre eles.  
 R: O verbo **PUT** usado para atualizar uma entidade completa ou O verbo **PATCH** usado para atualizar uma entidade parcialmente 
 
-13. Qual o status code que pode ser usado na criação de um novo usuário? 
+13. Qual o status code que pode ser usado na criação de um novo usuário?  
+R: 201
 
 14. Quais são os três status code que podem ser utilizados para realizar o delete? 
 
