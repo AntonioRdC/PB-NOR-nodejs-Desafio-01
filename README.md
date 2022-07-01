@@ -23,7 +23,10 @@ R: git init
 6. O que é o HTTP?  
 R: O http é o protocolo que faz a comunicação entre os clientes e o servidor na internet.
 
-7. Como funciona o HTTP? 
+7. Como funciona o HTTP?  
+R: Quando o cliente chama uma url no navegador, o protocolo http é usado para enviar essa requisição
+para o servidor e então o servidor através do http envia uma resposta para o usuário, sendo ela um
+html, css, js ou um json. 
 
 8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando?  
 R:  git add <arquivo>
