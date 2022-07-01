@@ -54,4 +54,5 @@ R: 200, 202, 204
 15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!  
 R: **1xx** Informações para o usuário. **2xx** Quando a requisição foi um sucesso. **3xx** Quando o site deseja redirecionar o usuário. **4xx** Quando ocorreu um erro pelo usuário. **5xx** Quando ocorreu um erro pelo servidor.
 
-16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora: 
+16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:  
+R: Uma experiência excelente, desejo muito avançar e aprender mais no programa de bolsa para sair mais confiante e mesmo não sendo contratado pela compass, tenho certeza que terei conhecimento para buscar uma vaga no mercado de devs.
