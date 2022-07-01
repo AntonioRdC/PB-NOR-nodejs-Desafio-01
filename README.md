@@ -34,7 +34,9 @@ onde cada uma estará em branches diferentes portanto podem ser desenvolvidas se
 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo?  
 R: git pull, git merge <branch>
 
-11. Qual a diferença entre git e github? 
+11. Qual a diferença entre git e github?  
+R: O **Git** é um software de versionamento de projetos, o **Github** é uma plataforma onde pode-se enviar
+os projetos versionados do git para a internet.
 
 12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
 
