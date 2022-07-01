@@ -20,7 +20,8 @@ a equipe de desenvolvimento o sprint backlog durante a sprint planning.
 5. Qual o comando para criação de um novo repositório no Git?  
 R: git init
 
-6. O que é o HTTP? 
+6. O que é o HTTP?  
+R: O http é o protocolo que faz a comunicação entre os clientes e o servidor na internet.
 
 7. Como funciona o HTTP? 
 
